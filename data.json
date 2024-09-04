@@ -1,0 +1,39 @@
+{
+  "medicine": [
+    {
+      "id": "101",
+      "name": "Vitamin D",
+      "price": "4500",
+      "photo": "https://omegaquant.com/wp-content/uploads/2022/01/How-to-Choose-the-Best-Vitamin-D-Supplement.jpg",
+      "rating": 5
+    },
+    {
+      "id": "102",
+      "name": "Paracetamol",
+      "price": "1000",
+      "photo": "https://www.mdsaude.com/wp-content/uploads/paracetamol-imagem-733x412.jpg",
+      "rating": 3
+    },
+    {
+      "id": "103",
+      "name": "Nurofen",
+      "price": "5000",
+      "photo": "https://attuale.ru/wp-content/uploads/2019/02/nurofenicjpg.jpg",
+      "rating": 5
+    },
+    {
+      "id": "104",
+      "name": "Vitamin C",
+      "price": "7000",
+      "photo": "https://i.ebayimg.com/images/g/xKcAAOSwr11iRz~1/s-l1200.jpg",
+      "rating": 1
+    },
+    {
+      "id": "105",
+      "name": "Analgin",
+      "price": "6500",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnuz_QZranKp_W5H_XXUMtrWjBvT9MyRwQg&s",
+      "rating": 4
+    }
+  ]
+}
